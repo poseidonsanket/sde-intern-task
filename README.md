@@ -16,8 +16,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/contact-management.git
-cd contact-management
+https://github.com/poseidonsanket/sde-intern-task.git
+cd sde-intern-task
 ```
 
 ### 2. Backend Setup
